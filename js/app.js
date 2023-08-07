@@ -297,7 +297,7 @@ class Storage{
         localStorage.removeItem('meals');
         localStorage.removeItem('workouts');
 
-        // If you want to clear the limit
+        /* If you want to clear the limit */
         // localStorage.clear();
     }
 }
